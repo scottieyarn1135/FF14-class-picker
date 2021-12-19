@@ -5,8 +5,8 @@ import sys
 # creates a list of the current jobs in the game
 
 tank = ["Warrior","Paladin","Dark Knight","Gunbreaker"]
-heal = ["White Mage","Scholar","Astrologian"]
-dps = ["Monk","Dragoon","Ninja","Samurai","Bard","Machinist","dancer","Black-mage","Summoner","Red-Mage"]
+heal = ["White Mage","Scholar","Astrologian","Sage"]
+dps = ["Monk","Dragoon","Ninja","Samurai","Bard","Machinist","dancer","Black-mage","Summoner","Red-Mage","Reaper"]
 # This is for all the jobs in the game
 every_class = tank+dps+heal
 
