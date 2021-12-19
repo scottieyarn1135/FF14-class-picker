@@ -4,6 +4,6 @@ This is for a game I am play called final fantasy 14 - The games has classes tha
 
 I have added options in case someone wants to focus on Tanking, healing or DPS.
 
-#New changes
+New changes
 
 Since Final fantasy 14 endwalker brought two new classes to the game (Reaper, sage) I will be adding them to the correct groups they should be in.
